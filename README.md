@@ -1,2 +1,2 @@
 # web-portfolio
- a simple portfolio for my projects
+ a simple portfolio site for my projects
